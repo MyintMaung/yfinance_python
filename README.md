@@ -1,6 +1,6 @@
 # Stock Analysis with Python 🐍📈
 
-This project uses Python libraries such as `yfinance`, `pandas`, and `BeautifulSoup` to gather and analyze stock market data. It includes working with stock data for companies like **AMD** and **Amazon**, checking historical prices, extracting HTML content, and identifying key financial metrics.
+This project uses Python libraries such as `yfinance`, `pandas`, and `BeautifulSoup` to gather and analyze stock market data. It includes working with stock data for companies like **Amazon** and **Tesla**, checking historical prices, extracting HTML content, and identifying key financial metrics.
 
 ## 🔍 Project Features
 
